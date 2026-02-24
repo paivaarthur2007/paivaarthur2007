@@ -1,4 +1,7 @@
 -Meu nome é Arthur Paiva , Mas sou chamado de Nooby pelos mais próximos
+
 -Eu curso ciência da computação no turno da manhã na universidade do Cesupa em Belém do Pará
+
 -Tenho interesse em trabalhar na área de cyber segurança e aprender a programar em C em Python
+
 -Um objetivo que tenho para o final do primeiro semestre é apronfundar os meus conhecimentos de programação
